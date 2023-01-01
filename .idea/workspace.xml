@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4788ce6-82d3-4382-8f24-de6d34cbabf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/ConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/config/LibraryEventConsumberConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/entity/LibraryEventEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/entity/LibraryEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/repository/LibraryEventRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyful/java/kafka/consumer/service/LibraryEventConsumerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="e4788ce6-82d3-4382-8f24-de6d34cbabf1" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +38,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -76,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672557863632</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1672568042653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672568042653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
